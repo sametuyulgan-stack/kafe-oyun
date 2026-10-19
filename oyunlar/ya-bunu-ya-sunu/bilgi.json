@@ -1,0 +1,16 @@
+{
+  "ad": "Ya Bunu Ya Şunu",
+  "emoji": "⚖️",
+  "tur": "grup",
+  "sira": 4,
+  "enAz": 2,
+  "sure": "~6 dk",
+  "tarz": "konusturur",
+  "turSecenekleri": [5, 8, 10],
+  "varsayilanTur": 8,
+  "nasil": [
+    "İki seçenek gelir: önce kendi tercihini seç.",
+    "Sonra grubun çoğunluğunun hangisini seçeceğini tahmin et.",
+    "Tahmini doğru çıkan herkes 1 puan alır. Berabere biterse herkes puan alır!"
+  ]
+}

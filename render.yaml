@@ -1,0 +1,11 @@
+# Render.com için yayın ayarı (ücretsiz plan)
+services:
+  - type: web
+    name: kafe-oyun
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_VERSION
+        value: 22.22.0

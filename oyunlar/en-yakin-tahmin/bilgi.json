@@ -1,0 +1,16 @@
+{
+  "ad": "En Yakın Tahmin",
+  "emoji": "🎯",
+  "tur": "grup",
+  "sira": 1,
+  "enAz": 2,
+  "sure": "~10 dk",
+  "tarz": "konusturur",
+  "turSecenekleri": [3, 5, 8],
+  "varsayilanTur": 5,
+  "nasil": [
+    "Ekrana cevabı bir sayı olan bir soru gelir.",
+    "Herkes kendi telefonundan tahminini yazar. Tahminler en uzaktan en yakına doğru sırayla açılır.",
+    "Gerçek cevaba en yakın tahmin 1 puan, tam isabet 2 puan alır."
+  ]
+}

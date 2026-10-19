@@ -1,0 +1,16 @@
+{
+  "ad": "Aynı Kafa",
+  "emoji": "🧠",
+  "tur": "grup",
+  "sira": 3,
+  "enAz": 3,
+  "sure": "~8 dk",
+  "tarz": "konusturur",
+  "turSecenekleri": [5, 8, 10],
+  "varsayilanTur": 8,
+  "nasil": [
+    "\"Akla gelen ilk…\" diye bir soru gelir, herkes aklına gelen ilk cevabı yazar.",
+    "Amaç farklı olmak değil, AYNI cevabı vermek! En çok kişinin yazdığı cevabı yazanlar 1 puan alır.",
+    "Büyük-küçük harf ve Türkçe karakter farkı önemli değil: \"Çay\" ile \"cay\" aynı sayılır."
+  ]
+}

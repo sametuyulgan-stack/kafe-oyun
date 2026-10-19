@@ -1,0 +1,16 @@
+{
+  "ad": "Kim Daha?",
+  "emoji": "👉",
+  "tur": "grup",
+  "sira": 2,
+  "enAz": 3,
+  "sure": "~10 dk",
+  "tarz": "konusturur",
+  "turSecenekleri": [5, 8, 10],
+  "varsayilanTur": 8,
+  "nasil": [
+    "\"Grubumuzda kim…?\" diye eğlenceli bir soru gelir.",
+    "Herkes odadaki birini gizlice oylar (kendine oy veremezsin). Sonuçlar herkesin ekranında aynı anda açılır.",
+    "En çok oy alan kişiyi seçenler 1 puan kazanır. Kimin kime oy verdiği gizli kalır!"
+  ]
+}
